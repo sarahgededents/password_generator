@@ -1,0 +1,2 @@
+center-tk-window==1.0.0
+ttkthemes==3.1.1
